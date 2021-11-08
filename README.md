@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```Python
 Hi there😄, By this platform to record my every single day.
 I want to make it different && meaningful.
-
+🔭🌱👯🤔💬📫😄⚡
 public class DrakThul (){
     var type = "Programmer and Communication Algorithm Technician";
     string[] language = new string[n] {"C", "Python", "Matlab", ...};
